@@ -1,0 +1,20 @@
+Different in branch
+
+file README
+
+master:
+Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+(строка №1)
+
+demo:
+Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+(строка №1)
+
+
+Commits in branch(6 коммитов):
+fix readme
+dots
+README added
+boots
+heat added
+init
